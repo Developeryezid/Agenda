@@ -1,9 +1,9 @@
 # Apuntes en general
    + introduccion al algoritmo
    + diagramas de flujo
-   + practicas diarias de progrmamacion
+   + practicas diarias de programacion
    + analizar procesos de algoritmos
 
 
 
-# ejemplos de añgoritmos
+# ejemplos de algoritmos
