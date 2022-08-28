@@ -4,3 +4,6 @@
    + practicas diarias de progrmamacion
    + analizar procesos de algoritmos
 
+
+
+# ejemplos de añgoritmos
