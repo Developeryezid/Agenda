@@ -7,9 +7,8 @@
 
 
 # ejemplos de algoritmos
-<<<<<<< HEAD
  Algoritmos de impuestos
-=======
+-------------------------------------------
  + Algoritmos de impuestos
  + algoritmos de estructuras de datos
  
@@ -42,5 +41,5 @@
   end sub
    
    
->>>>>>> 275edf9dc38837fb3b906076d71655a1c74d1f00
+
  
