@@ -14,17 +14,22 @@
  
  sub sumar
  
+ 
    a = inputbox ("por favor escribe un numero")
+   
    b = inputbox (" por favor escribe otro numero")
    
    C = int (a) + int (b)
+   
      msgbox " el resultado es: " & c
      
  end sub   
  -------------------------------------------------
  
  sub sumar 
+ 
  a = int (inputbox (" por favor escribe un numero")
+ 
  b = inputbox (" por favor escribe otro numero")
  
    c= a + int (b)
