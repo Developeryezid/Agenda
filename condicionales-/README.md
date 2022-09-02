@@ -7,8 +7,8 @@
 
 
 # ejemplos de algoritmos
- Algoritmos de impuestos
- algoritmos de estructuras de datos
+ + Algoritmos de impuestos
+ + algoritmos de estructuras de datos
  
  -----------------------------------------------
  
@@ -20,7 +20,7 @@
    C = int (a) + int (b)
      msgbox " el resultado es: " & c
      
- end sub    
+ end sub   
  -------------------------------------------------
  
  sub sumar 
