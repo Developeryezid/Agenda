@@ -26,6 +26,8 @@
      msgbox " el resultado es: " & c
      
  end sub   
+ 
+ 
  -------------------------------------------------
  
  sub sumar 
