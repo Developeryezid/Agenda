@@ -9,6 +9,7 @@
 
 # ejemplos de algoritmos
  + condicionales dobles
+ + algoritmos de datos y registros
  + Algoritmos de impuestos
  + Algoritmos de impuestos
  + algoritmos de estructuras de datos
