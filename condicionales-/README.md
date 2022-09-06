@@ -6,11 +6,13 @@
 
 
 
-# ejemplos de algoritmos en general
 
+# ejemplos de algoritmos
  + condicionales dobles
  + Algoritmos de impuestos
+ + Algoritmos de impuestos
  + algoritmos de estructuras de datos
+
  
  ----------------------------------------------
  
@@ -27,6 +29,8 @@
      msgbox " el resultado es: " & c
      
  end sub   
+ 
+ 
  -------------------------------------------------
  
  sub sumar 
