@@ -4,4 +4,4 @@
 
 [1.1 Condicionales](/Trimestre%201/condicionales-/README.md)
 
-[1.2 Condicionales](/Trimestre%201/funcionesCaracteres/README.md)
+[1.2 Funciones de manejo de cadenas para caracteres](/Trimestre%201/funcionesCaracteres/README.md)
