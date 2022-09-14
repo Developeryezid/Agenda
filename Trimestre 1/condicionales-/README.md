@@ -46,5 +46,20 @@
   end sub
    
    
+Sub formulario()
+    ID = True
+    fila = 1
+    
+    cedula = Int(InputBox("Digite el número de cédula: "))
+    While ID
+        If cedula = lista.Cells(fila, 1) Then
+            nombre = lista.Cells(fila, 2)
+            
+            ID = False
+            MsgBox "su nombre es: " & nombre
+        End If
+    Wend
+    
+End Sub
 
  
